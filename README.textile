@@ -1,0 +1,7 @@
+.h1 Welcome here
+
+p Here will be my class and lab for some web practice:
+#CSS
+#HTML5
+
+*0424 init project
